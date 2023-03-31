@@ -1,0 +1,12 @@
+PytorchFrameTutorial/data/
+GPT2/dataset/
+GPT2/model/
+Basic/data/
+Basic/m/
+Basic/results/
+Basic/runs/
+Basic/saved/
+chatbot/model/
+chatbot/data/
+data/
+NLPapp/__pycache__/
